@@ -1,4 +1,4 @@
-//Vishal Kotha, Period 3
+//Vishal Kotha
 using namespace std;
 
 #include<vector>
